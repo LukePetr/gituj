@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 asdjkasdasdasd
 =======
 asdjkasdasd
 >>>>>>> gituj2 uprava D
+=======
+asdjkasdasdasd
+>>>>>>> cherry pick
