@@ -1,0 +1,3 @@
+[submodule "gituj-sub"]
+	path = gituj-sub
+	url = https://github.com/LukePetr/gituj-sub.git
